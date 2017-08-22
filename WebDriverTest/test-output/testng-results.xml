@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="34132" started-at="2017-08-09T18:44:39Z" finished-at="2017-08-09T18:45:13Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="10286" started-at="2017-08-09T18:44:39Z" finished-at="2017-08-09T18:44:50Z">
+      <class name="com.webdriver.test.SeleniumGridTest">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.webdriver.test.SeleniumGridTest@42a311]" name="SetUp" is-config="true" duration-ms="6281" started-at="2017-08-09T14:44:39Z" finished-at="2017-08-09T14:44:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="crossbrowsertest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@42a311]" name="crossbrowsertest" duration-ms="2625" started-at="2017-08-09T14:44:46Z" finished-at="2017-08-09T14:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossbrowsertest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@42a311]" name="afterTest" is-config="true" duration-ms="1373" started-at="2017-08-09T14:44:48Z" finished-at="2017-08-09T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webdriver.test.SeleniumGridTest -->
+    </test> <!-- ChromeTest -->
+    <test name="IE" duration-ms="11168" started-at="2017-08-09T18:44:39Z" finished-at="2017-08-09T18:44:50Z">
+      <class name="com.webdriver.test.SeleniumGridTest">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.webdriver.test.SeleniumGridTest@19d1a19]" name="SetUp" is-config="true" duration-ms="5248" started-at="2017-08-09T14:44:39Z" finished-at="2017-08-09T14:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="crossbrowsertest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@19d1a19]" name="crossbrowsertest" duration-ms="4683" started-at="2017-08-09T14:44:45Z" finished-at="2017-08-09T14:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossbrowsertest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@19d1a19]" name="afterTest" is-config="true" duration-ms="1213" started-at="2017-08-09T14:44:49Z" finished-at="2017-08-09T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webdriver.test.SeleniumGridTest -->
+    </test> <!-- IE -->
+    <test name="FirefoxTest" duration-ms="34132" started-at="2017-08-09T18:44:39Z" finished-at="2017-08-09T18:45:13Z">
+      <class name="com.webdriver.test.SeleniumGridTest">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.webdriver.test.SeleniumGridTest@bd1b6a]" name="SetUp" is-config="true" duration-ms="13003" started-at="2017-08-09T14:44:39Z" finished-at="2017-08-09T14:44:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="crossbrowsertest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@bd1b6a]" name="crossbrowsertest" duration-ms="20565" started-at="2017-08-09T14:44:52Z" finished-at="2017-08-09T14:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossbrowsertest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.webdriver.test.SeleniumGridTest@bd1b6a]" name="afterTest" is-config="true" duration-ms="560" started-at="2017-08-09T14:45:13Z" finished-at="2017-08-09T14:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webdriver.test.SeleniumGridTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
